@@ -148,6 +148,6 @@ blank_line_before_nested_class_or_def = true
 split_before_expression_after_opening_paren = true
 
 [tool.codespell]
-skip = "*.ipynb"
+skip = "*.ipynb,*.tsv"
 quiet-level = 3
-ignore-words-list = "ans,refridgerator,crate,hist,formating,dout,wan,nd,fo,avod,AVOD,warmup,DONOT"
+ignore-words-list = "ans,refridgerator,crate,hist,formating,dout,wan,nd,fo,avod,AVOD,warmup,DONOT,abd"
